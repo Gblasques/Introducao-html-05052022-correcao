@@ -1,0 +1,9 @@
+Atalhos Tag de comentarios : Ctrl + ;(ponto virgula) ou Ctrl + Shift + A;
+
+-Para abrir o arquivo Html:
+abrir com live server;
+clicando com direito "copy patch";
+ou arrastando arquivo no navegador;
+
+Site de atalhos para o vscode
+https://usethekeyboard.com/vs-code/
